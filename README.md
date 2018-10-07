@@ -9,3 +9,5 @@ ES6
 
 # To Deployed
 Clone the files and yarn start in command line/terminal
+
+![Pokemon Game](https://github.com/misscheryvang/clicky-game/blob/master/public/screenshot/screen.png)
