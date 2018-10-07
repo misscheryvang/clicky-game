@@ -7,5 +7,5 @@ Bootstrap
 CSS
 ES6
 
-## Deployed
-https://misscheryvang.github.io/Homework19/
+# To Deployed
+Clone the files and yarn start in command line/terminal
